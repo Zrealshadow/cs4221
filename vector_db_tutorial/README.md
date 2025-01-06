@@ -25,6 +25,10 @@ conda install -n milvus ipykernel
 pip install pymilvus[model]
 ```
 
+you can also create virtual environment by `environment.yml` file we provided under this directory.
+
+```bash
+
 **2. Milvus Setup**
 
 The `docker-compose` file provides an easy standalone deployment option in which the milvus version is `2.3.x`.
@@ -39,4 +43,5 @@ there are two notebook files to introduce basic operations in milvus.
 
 - quickStart.ipynb
 - hello_milvus.ipynb
+- float_index_tune.ipynb
 
