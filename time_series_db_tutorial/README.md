@@ -17,7 +17,7 @@ $ echo "MyInitialAdminToken0==" > ~/.env.influxdb2-admin-token
 then, you can easily start a influxDB server by executing 
 
 ```shell
-$ docker compose up influxDB2 -d
+$ docker compose up influxdb2 -d
 ```
 
 the docker compose will automatically read the configuration files and help you set up the server.
