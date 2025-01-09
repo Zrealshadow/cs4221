@@ -55,6 +55,8 @@ and follow `hello_influxdb.ipynb` and try some basic operation in influxDB
 
 
 
+
+
 ## Tutorial
 
 there are three python notebook files to introduce basic operations in influxDB.
@@ -66,3 +68,5 @@ there are three python notebook files to introduce basic operations in influxDB.
 the next two tutorials are about specific dataset, you need to download related dataset first.
 
 We recommend you to execute the queries appearing in these notebook in InfluxDB UI which will visualize the data and help data analysis. 
+
+more influxDB tutorials, this [repository](https://github.com/josevnz/influxdb_datasets) can be a reference.
