@@ -39,7 +39,7 @@ To change the milvus image: modify the `standalone.image`. To add Go mem control
 
 ## Tutorial
 
-there are two notebook files to introduce basic operations in milvus.
+there are three notebook files to introduce basic operations in milvus.
 
 - quickStart.ipynb
 - hello_milvus.ipynb
