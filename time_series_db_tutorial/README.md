@@ -10,7 +10,7 @@ At the begining, we need to create some configuration files.
 
 ```shell
 $ echo "admin" > ~/.env.influxdb2-admin-username
-$ echo "MyInitialAdminPassword" > ~/.env.influxdb2-admin-username
+$ echo "MyInitialAdminPassword" > ~/.env.influxdb2-admin-password
 $ echo "MyInitialAdminToken0==" > ~/.env.influxdb2-admin-token
 ```
 
