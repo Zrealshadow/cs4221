@@ -28,6 +28,8 @@ pip install pymilvus[model]
 you can also create virtual environment by `environment.yml` file we provided under this directory.
 
 ```bash
+conda env create -f environment.yml
+```
 
 **2. Milvus Setup**
 
