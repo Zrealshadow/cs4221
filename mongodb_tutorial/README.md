@@ -73,4 +73,4 @@ The result of this command returns a document describing your server deployment.
 
 there are three python notebook files to introduce basic operations in mongodb.
 
-\- hello_mongodb.ipynb
+- hello_mongodb.ipynb
